@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 a
 b
 c
 d
 e
 changes in this file for merging
+=======
+changes in test file
+>>>>>>> bug_fixes
